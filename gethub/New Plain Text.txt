@@ -1,0 +1,11 @@
+HTTPS: https://github.com/outnor33-collab/ingrewise-v2.git
+
+
+
+git clone https://github.com/outnor33-collab/ingrewise-v2.git
+cd ingrewise-v2
+
+
+
+git clone https://github.com/outnor33-collab/ingrewise-v2.git ingrewise-fresh
+cd ingrewise-fresh

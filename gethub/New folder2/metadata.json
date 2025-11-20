@@ -1,0 +1,7 @@
+{
+  "name": "Ingrewise - Product Ingredient Analyzer",
+  "description": "An application to analyze the ingredients of any food or cosmetic product from its picture. It highlights potentially harmful components based on scientific analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
